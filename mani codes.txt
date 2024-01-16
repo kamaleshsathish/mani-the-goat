@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE STORY OF Manigandan Revi</title>
+    <style> 
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+
+            border: 5px solid;
+            width:1000px;
+            length:1000px;
+         
+"
+        
+       <style>
+    .image-border {
+        border: 2px solid #000;
+    }
+</style>
+
+<img src="images (2).jpg" alt="images (2)e" class="images (2)">
+      
+
+    </style>
+</head>
+<body>
+
+    <h1>THE STORY OF THE GREATEST PAEDOPHILE IN HUMAN HISTORY</h1>
+
+    <img src="C:/Users/admin/Documents/mani.jpg" width="300px" height="300px" alt="Mani Image">
+
+</body>
+
+
+    <p>
+        A man from USA,ohio living in the shadows of history, emerged a notorious figure named Manigandan, known as the world's biggest pedophile. His story was a chilling narrative of darkness and heinous acts that shook the foundations of morality.
+    </p>
+    
+    <h1> A Disturbing Past</h1>
+                               
+    <p>
+        Born into obscurity, Manigandan's early life offered glimpses of a troubled soul. Raised in secrecy, he exhibited disturbing tendencies that hinted at the darkness within.
+    </p>
+    
+    <h1> Reign of Terror</h1>
+
+    <p>
+       As he grew older, Manigandan's sinister desires escalated, and he embarked on a terrifying spree of kidnapping and sexually assaulting innocent children. The atrocities committed by him left communities in fear and shock.He has interested himself in 9 year old and has also stated that he likes a large variety of girls ranging from 1 to 65 years old.We belive that he has physically/mentally rapes the children almost 69 children from ohio alone, and the counting keep increasing.Mr.Manigandan was caught at 6:09pm when a group of friends saw him raping a transgender aunty at public.The police department felt relieved after catching him and thanked the brave group of friends for their heroic actions. 
+    </p>
+    
+    <h1> Justice Prevails</h1>
+    
+    <p>His reign of terror, however, came to an end when a mahila court in anna nagar sentenced him to life imprisonment. The court's decision marked a crucial victory for justice, sending a strong message against such heinous crimes.</p>
+
+</body>
+</html>
